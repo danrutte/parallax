@@ -1,2 +1,2 @@
 # parallax
-Parallax v JavaScriptu, který reaguje na pohyb myši
+Parallax v JavaScriptu, který reaguje na pohyb myši.
