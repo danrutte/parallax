@@ -1,0 +1,2 @@
+# parallax
+Parallax v JavaScriptu
